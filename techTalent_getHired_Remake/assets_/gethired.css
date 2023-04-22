@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.jumbotron {
+    padding-top: 100px;
+    width: 100%;
+    height: auto;
+    background-color: white;
+    background-image: url('/assets_/get-hired-header2-min-e1676561305376.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+    height: 1000px;
+}
+
+.btn {
+    border-radius: 30px;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 800;   
+}
+
+.btn.btn-primary.btn-lg {
+    background-color: blue;
+}
+
+a.nav-link {
+    font-family: 'Nunito Sans', sans-serif;
+    
+}
+
+h1.display-4 {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 90;
+    font-weight: 700;
+}
+
+p.lead {
+    font-family: 'Nunito Sans', sans-serif;   
+}
+
+.img {
+    width: 100%;
+    height: auto;
+}
+
+.carousel-item {
+    padding: 100px;
+}
+
+.container-fluid {
+    padding: 100px;
+    background-color: white;
+    height: auto;
+    width: auto;
+}
+
+.card-deck {
+    border-left: none;
+    border-right: none;
+    background-color: white;
+}
+
+.container-fluid h1 {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    text-align: center;
+}
+
+.container-fluid p {
+    font-family: 'Nunito Sans', sans-serif;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.card-deck {
+    background-color: white;
+    padding: 20px;
+}
+
+.card-body {
+    background-color: white;
+}
+
+.accordion {
+    float: left;
+    margin-top: 100px;
+    margin-left: 100px;
+    width: 450px;
+   
+}
+
+.accordion.card {
+    float:none;
+}
+
+
+
+.card-deck h5 {
+    color: darkblue;
+}
+
+.card-title h5, .card-text p {
+    text-align: center;
+}
+
+img .card {
+    background-color: lightblue;
+}
+
+.temp {
+    float: inline-start;
+}
+
+.whycards {
+    float:left;
+    flex-flow: row;
+    margin-left: 75px;
+    padding: 10px;
+}
+
+
+
+
+
+
